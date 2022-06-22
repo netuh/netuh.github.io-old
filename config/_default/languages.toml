@@ -1,0 +1,13 @@
+[en]
+title = "Waldemar Ferreira"
+description = "This is the personal webpage of Professor Waldemar Ferreira (Neto)"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[pt]
+title = "Waldemar Ferreira"
+description = "Esta é a página pessoal do Professor Waldemar Ferreira (Neto)"
+contentDir = "content/portuguese" 
+weight = 2
+LanguageName = "PT"
