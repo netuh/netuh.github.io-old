@@ -2,7 +2,7 @@ baseURL = "https://netuh.github.io/"
 languageCode = "pt"
 DefaultContentLanguage = "pt"
 title = "Website of Jane Doe"
-publishDir = "docs"
+# publishDir = "docs"
 
 # theme as hugo module
 theme = "github.com/lxndrblz/anatole"
