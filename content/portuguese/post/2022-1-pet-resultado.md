@@ -57,3 +57,6 @@ Santiago Henrique da Silva                 | Engenharia da Computação         
 Valdir Zacarias de Oliveira Junior         | Engenharia da Computação           |
 Vitória Gabriella Siqueira Ramos           | Engenharia Química                 |
 
+## Importante
+
+Haviamos planejado começar no dia 02/12 (02 de Dezembro), mas como a UFRPE não irá abrir, pois é o jogo da Seleção Brasileira. Então curso começará (de forma remota dia 04 de Dezembro, no Domingo). Ao longo da semana, daremos mais informações.
