@@ -1,6 +1,6 @@
 ---
 author: 'Waldemar Ferreira'
-title: 'Resultado do PET'
+title: 'Resultado das Bolsas do PET'
 date: 2022-11-27
 description: 'Lista dos Alunos Selecionados PARA BOLSA'
 tags:
