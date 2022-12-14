@@ -38,10 +38,27 @@ Caso haja desistência, os alunos da lista de espera são:
 | **Aluno**                                | **Curso**                          |
 |:-----------------------------------------|:-----------------------------------|
 Felipe da Silva Coimbra Patriota           | Engenharia da Computação
-Karolyna Rodrigues de Araújo Silva         | Engenharia da Computação
+Helson Gonçalves                           | Engenharia da Computação
 Rayssa Mirelle Silva Oliveira              | Engenharia da Computação
 
 
-## Importante
+## Cadastro dos alunos Bolsistas
 
-Darei instruções de como cadatrar para a bolsa em breve
+Todos os alunos selecionados como bolsistas devem seguir os seguintes passos:
+1. Cadatrar ou atualizar o seu curriculo lattes:
+ - [Novo Curriculo](https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio)
+ - [Atualizar Curriculo](https://lattes.cnpq.br/)
+2. Gerar o PDF dos seguintes Documentos:
+ - Identidade ou CNH
+ - Histórico Escolar do Ensino Médio
+ - Comprovante de Residência
+ - Comprovante de Mátricula (pode ser o do **SIGA**)
+3. Mandar para o meu email: waldemar.ferreira@ufrpe.br
+ - Nome completo
+ - CPF
+ - Número da Identidade
+ - Data de Nascimento
+ - Documentos anteriores (Comprovante de Residência,  Histórico Escolar E/M e Identidade ou CNH)
+4. Abrir uma conta no Banco do Brasil (pode ser uma conta Virtual) e NÃO pode ser Poupança
+5. Cadastra-se na plataforma agil da FACEPE [Cadastro Agil FACEPE](https://agil.facepe.br/ui/cadastro-usuario)
+6. Quando terminar o cadastro avisar no telegram (Privado)
